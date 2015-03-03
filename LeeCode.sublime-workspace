@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"printState"
+			],
+			[
+				"cont",
+				"count"
+			],
+			[
+				"stat",
+				"stateCmp"
+			],
+			[
+				"sta",
+				"stateCmp"
+			],
+			[
+				"inver",
+				"inversion_num"
+			],
+			[
+				"maxR",
+				"maxRowOff"
+			],
+			[
+				"maxC",
+				"maxColOff"
+			],
+			[
+				"maxCol",
+				"maxColStep"
+			],
+			[
+				"max",
+				"maxRowStep"
+			],
+			[
+				"if",
+				"isForset"
+			],
+			[
+				"ed",
+				"edgeNum"
+			],
+			[
+				"p",
+				"plusC"
+			],
+			[
+				"set",
+				"setInputVector"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"e",
+				"edge"
+			],
+			[
+				"nod",
+				"nodeNum"
+			],
+			[
+				"po",
+				"po"
+			],
+			[
+				"index",
+				"indexNoZero"
+			],
+			[
+				"len",
+				"lenRes"
+			],
+			[
+				"ci",
+				"cicle"
+			],
+			[
+				"num",
+				"numToPosition"
+			],
+			[
+				"cicle",
+				"cicleIndex"
+			],
+			[
+				"en",
+				"entrptyed"
+			],
+			[
+				"co",
+				"col"
+			],
+			[
+				"o",
+				"oper"
+			],
+			[
+				"OP",
+				"oper"
+			],
+			[
+				"op",
+				"opChain"
+			],
+			[
+				"que",
+				"queueG"
+			],
+			[
+				"child",
+				"childB"
+			],
+			[
+				"ch",
+				"childA"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"te",
+				"tempDown"
+			],
+			[
+				"tem",
+				"tempUp"
+			],
+			[
+				"cur",
+				"currResult"
+			],
+			[
+				"ste",
+				"stepCount"
+			],
+			[
+				"oper",
+				"operatorA"
+			],
+			[
+				"curr",
+				"currOper"
+			],
+			[
+				"cu",
+				"currStr"
+			],
+			[
+				"quue",
+				"queueResult"
+			],
+			[
+				"qeu",
+				"queueStep"
+			],
+			[
+				"step",
+				"stepCount"
+			],
+			[
+				"queue",
+				"queueStep"
+			],
+			[
+				"queu",
+				"queueStep"
+			],
+			[
+				"sub",
+				"subStrings"
+			],
+			[
+				"subS",
+				"subStringsNumber"
+			],
+			[
+				"com",
+				"comDistance"
+			],
+			[
+				"floa",
+				"floatPart"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"loca",
+				"location-1"
+			],
+			[
+				"stt",
+				"staticArr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "1_TwoSum.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/develop/workspace/SublimeText/LeeCode/1_TwoSum",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/dev/androidStudio/bin/idea.properties",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1000.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1006.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1008.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1000B.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1008B2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1007.cpp",
+		"/C/Users/adam/Desktop/LXM.codes/codes/排序/逆序对.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1001.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1041.cpp",
+		"/E/develop/workspace/SublimeText/sicily/execise01/t02.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1004.cpp",
+		"/E/develop/workspace/SublimeText/sicily/TestC/1002.cpp",
+		"/E/develop/workspace/SublimeText/sicily/ohter/BigNum_Template.cpp",
+		"/H/dip/14214160_陈晓丹_hw1_v2/hw1_2.py",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/陈晓丹-14214160-MS901课程项目/bin/tomcat7.bat",
+		"/C/OOP/bin/james2/apps/james/SAR-INF/config.xml",
+		"/C/OOP/bin/deploy_all.xml",
+		"/C/OOP/bin/tomcat7/webapps/ymail/WEB-INF/classes/DBConn.properties",
+		"/C/OOP/bin/start-all.bat",
+		"/C/OOP/bin/startup.bat",
+		"/C/OOP/bin/tomcat7/bin/startup.bat",
+		"/C/OOP/bin/james2.bat",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/陈晓丹-14214160-MS901课程项目/bin/james2.bat",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/YMail-1.0-SNAPSHOT/mysql.xml",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/YMail-1.0-SNAPSHOT/deploy_all.xml",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/YMail-1.0-SNAPSHOT/deploy_db.xml",
+		"/C/Users/adam/Desktop/contracts.sql",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/yMail/YMail-1.0-SNAPSHOT/james2/apps/james/SAR-INF/config.xml",
+		"/E/迅雷下载/newfile (8).svc",
+		"/E/迅雷下载/newfile (10).svc",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1028.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1017.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1052.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1004.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1051.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1001.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1034.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1000.cpp",
+		"/E/develop/workspace/IntelljIdea/JamesProxy/keeplive/target/keeplive-1.0-SNAPSHOT/change.properties",
+		"/E/develop/workspace/IntelljIdea/JamesProxy/keeplive/target/MANIFEST.MF",
+		"/E/develop/workspace/IntelljIdea/JamesProxy/keeplive/target/keeplive-1.0-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1029.cpp",
+		"/E/迅雷下载/showLoading/showLoading/js/jquery.showLoading.js",
+		"/E/迅雷下载/showLoading/showLoading/css/showLoading.css",
+		"/E/develop/workspace/SublimeText/sicily/ohter/1134.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1134.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1438.cpp",
+		"/E/develop/workspace/SublimeText/sicily/ohter/1438.cpp",
+		"/E/develop/workspace/SublimeText/sicily/ohter/FindMax.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1093.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1093_4.cpp",
+		"/D/project/ef/easyform/src/com/easyform/action/user/LoginAction.java",
+		"/D/project/ef/easyform/WebRoot/login.jsp",
+		"/D/dev/server/james/james2/apps/james/SAR-INF/config.xml",
+		"/D/project/ef/easyform/src/com/easyform/util/CookieTool.java",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1006.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1024.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1024_2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1156.cpp",
+		"/C/Users/adam/Desktop/DBPersistence/说明.txt",
+		"/C/Users/adam/Desktop/user_goods.sql",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/Java 邮件开发详解1/代码/lesson7/TestJaf.java",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/Java 邮件开发详解1/代码/lesson8/MsgInfo.java",
+		"/C/Users/adam/Desktop/config.xml",
+		"/D/mailTest/testHtmlMessage.eml",
+		"/D/testTextMessage.eml",
+		"/E/Stu/Postgreate/面向对象/面向对象设计/Java 邮件开发详解1/代码/说明.txt",
+		"/E/迅雷下载/javamail1_4_7/javamail-1.4.7/demo/logging/FileErrorManager.java",
+		"/E/迅雷下载/javamail1_4_7/javamail-1.4.7/demo/servlet/JavaMailServlet.java",
+		"/E/迅雷下载/javamail1_4_7/javamail-1.4.7/demo/copier.java",
+		"/E/develop/workspace/IntelljIdea/DMail4J/dmail-utils/target/dmail-utils-1.0-SNAPSHOT.jar",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1153_1.cpp",
+		"/D/dev/server/james/james2/apps/james/conf/sqlResources.xml",
+		"/C/Users/adam/Desktop/operatelog.sql",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1009.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1006_1.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1006_2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1007.cpp",
+		"/D/dev/server/james/james2/conf/phoenix-service.xml",
+		"/D/dev/xampp/phpMyAdmin/config.inc.php",
+		"/E/develop/workspace/SublimeText/sicily/execise01/t01.cpp",
+		"/E/develop/workspace/SublimeText/sicily/ohter/1381.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1152.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1152_1.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1153.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch03/1152_3",
+		"/D/dev/Git/etc/gitconfig",
+		"/D/dev/Git/etc/profile",
+		"/D/dev/Git/etc/inputrc",
+		"/D/dev/Git/etc/git-completion.bash",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1151.cpp",
+		"/E/develop/workspace/myEclipse/spring-security-3.2.5.RELEASE/samples/helloworld-jc/src/main/webapp/WEB-INF/web.xml",
+		"/E/迅雷下载/spring-security-3.2.5.RELEASE/spring-security-3.2.5.RELEASE/samples/hellojs-jc/src/main/java/org/springframework/security/samples/config/SecurityConfig.java",
+		"/E/迅雷下载/spring-security-3.2.5.RELEASE/spring-security-3.2.5.RELEASE/samples/hellojs-jc/pom.xml",
+		"/E/迅雷下载/spring-security-3.2.5.RELEASE/spring-security-3.2.5.RELEASE/samples/insecure/src/main/java/README.adoc",
+		"/E/迅雷下载/spring-security-3.2.5.RELEASE/spring-security-3.2.5.RELEASE/samples/insecure/src/main/webapp/index.jsp",
+		"/E/迅雷下载/spring-security-3.2.5.RELEASE/spring-security-3.2.5.RELEASE/samples/hellojs-jc/src/main/java/org/springframework/security/samples/config/MessageSecurityWebApplicationInitializer.java",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1036.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1007_3.cpp",
+		"/E/AdamDoc/jersy/test/simple-service-webapp/pom.xml",
+		"/D/dev/server/james/james2/apps/james/var/users/6164616D.Repository.FileObjectStore",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/ex2_1.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1515.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1151_2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/.gitignore",
+		"/E/develop/workspace/SublimeText/sicily/Ch02/1150.cpp",
+		"/D/dev/server/james/james2/apps/james/conf/james-listmanager.xml",
+		"/D/dev/server/james/james2/apps/james/conf/james-liststores.xml",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1176.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1176_2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1198.cpp",
+		"/E/develop/workspace/SublimeText/sicily/shuiti/DP.cpp",
+		"/E/Document/mail/cxd_dan@126.com/stamp.ini",
+		"/E/Document/mail/cxd_dan@126.com/sent.indx",
+		"/E/迅雷下载/Demo/Demo/src/Demo.java",
+		"/E/develop/workspace/SublimeText/sicily/shuiti/test2710.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1035.cpp",
+		"/E/develop/workspace/SublimeText/sicily/shuiti/2710.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1051_2.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1027.cpp",
+		"/C/Users/adam/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/adam/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1020.cpp",
+		"/E/develop/workspace/SublimeText/sicily/Ch01/1021.cpp",
+		"/D/project/baseTech/springMVCAnno/web/WEB-INF/web.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"isRegular",
+			"temp",
+			"island",
+			"maxDis",
+			"Node",
+			"repository",
+			"user-store",
+			"data-source",
+			"double",
+			"queueStep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1_TwoSum.cpp",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
