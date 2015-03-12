@@ -2,6 +2,12 @@
 
 using namespace std;
 
+/*
+扩展中心法，从一个字符开始往两边扩展，
+查找最大回文，注意aba和abba的情况，
+需要分两次比较
+*/
+
 class Solution {
 public:
     string longestPalindrome(string s) {
