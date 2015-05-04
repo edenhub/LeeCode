@@ -8,8 +8,7 @@ class Solution {
 public:
     int minimumTotal(vector<vector<int> > &triangle) {
             int n = triangle.size();
-
-            return dp[size-1][0];
+            
     }
 };
 
