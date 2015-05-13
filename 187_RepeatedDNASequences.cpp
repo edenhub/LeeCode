@@ -13,42 +13,32 @@ public:
         int size = s.size();
         if(size <= 10) return ret;
         map<int,int> m;
-        int first = init(s);
+        int first = init(s,9);
         m[first] = 1;
         for(int i=1;i<=s.size()-10;i++){
-            int ne = next(first,s[i+10]);
-            if(m[ne] == 1) ret.push_back(s.substr(i,10));
+            int ne = init(s,i+9);
+            if(m[ne] == 1 ) {
+                 ret.push_back(s.substr(i,10));
+                 m[ne]++;
+            }
+            else if(m[ne] > 1) continue;
             else m[ne] = 1;
-        }   
 
+            first = ne;
+        }   
         return ret;
     }
 
 private:
-    int next(int pre,char ch){
-        return (pre << 2) + judeAddition(ch);
-    }
-
-    int init(string& s){
-        int first;
-        for(int i=9;i>=0;i--){
-            int add = judeAddition(s[i]);
-            first += add*pow(4,9-i);
+    inline int init(string& s,int last){
+        int res=0;
+        for(int i=last;i>=last-9;i--){
+            int add = ( (s[i] & 0x6) >> 1 );
+            res += add;
+            res = res<<2;
         }
 
-        return first;
-    }
-
-    int judeAddition(char ch){
-        int addition;
-        switch(ch){
-            case 'A' : { addition = 0 ; break;}
-            case 'T' : { addition = 1 ; break;}
-            case 'C' : { addition = 2 ; break;}
-            case 'G' : { addition = 3 ; break;}
-        }
-
-        return addition;
+        return res;
     }
 };
 
@@ -56,7 +46,6 @@ int main(){
     string s1 = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
 
     Solution s;
-
     vector<string> res = s.findRepeatedDnaSequences(s1);
 
     for(int i=0;i<res.size();i++)
