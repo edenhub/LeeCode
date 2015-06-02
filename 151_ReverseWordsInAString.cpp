@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <sstream>
 
 using namespace std;
 
@@ -10,7 +11,6 @@ public:
         int size = s.size();
         if(size == 0) return;
         reversePartition(s,0,size-1);
-        cout<<size<<endl;
         int front=0,tail=0;
 
         while(front<size && tail <size){
@@ -28,16 +28,20 @@ private:
     void preHold(string& s){
         int size = s.size();
         if(size == 0) return;
-        int idx = 0;
-        while(idx<size && s[idx] == ' ') idx++;
-        s.erase(s.begin(),s.begin()+idx-1);
-        size = s.size();
-        idx = size;
-        while(0<idx && s[idx] == ' ')idx--;
-        s.erase(s.end()-idx,s.end());
-        size = s.size();
-        for(int i=0;i<size;i++){
+        stringstream ss;
+        char pre = s[0],curr = '\0';
+        if(pre != ' ') ss<<pre;
+        for(int i=1;i<size;i++){
+            pre = s[i-1];
+            curr = s[i];
+
+            if(curr == ' ' && pre == ' ') continue;
+            else if(curr != ' ' || (curr == ' ' && pre != ' ')) ss<<curr;
         }
+
+        s = ss.str();
+        size = s.size();
+        if(s[size - 1] == ' ') s.erase(size-1);
     }
     void reversePartition(string &str,int s,int e){
         if(s>=e) return;
@@ -50,7 +54,7 @@ private:
 };
 
 int main(){
-    string s = "       the   sky   is       blue    ";
+    string s = "a";
     Solution so;
     so.reverseWords(s);
     cout<<s<<endl;
